@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<integer>0</integer>
 					<key>url</key>
-					<string>https://github.com/717785320/thor/blob/master/AppIcon83.5x83.5%402x~ipad.png</string>
+					<string>https://github.com/717785320/Thor/blob/master/AppIcon83.5x83.5@2x~ipad.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/717785320/thor/blob/master/AppIcon83.5x83.5%402x~ipad.png</string>
+					<string>https://github.com/717785320/Thor/blob/master/AppIcon83.5x83.5@2x~ipad.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
